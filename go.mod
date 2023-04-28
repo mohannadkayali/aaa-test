@@ -1,4 +1,4 @@
-module talabat-api-gateway-authentication/v0.0.1
+module github.com/mohannadkayali/aaa-test/v0.0.1
 
 go 1.17
 
